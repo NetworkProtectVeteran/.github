@@ -6,9 +6,10 @@ Data Security Concerns: The lack of departmental segregation exposes sensitive d
 Collaboration Bottlenecks: Limited file sharing capabilities hinder workflow across departments, impacting productivity and employee satisfaction.
 Scalability Constraints: The current network infrastructure struggles to accommodate your expanding workforce and growing resource demands.
 Remote Access Gaps: The absence of secure remote access options restricts flexibility and limits talent acquisition opportunities.
-Proposed Solution Phase 1:
+# Proposed Solution Phase 1:
 ## 1. Enhanced Physical Network:
-* Departmental VLANs: We will implement VLANs (Virtual LANs) to create isolated network segments for each department (Sales & Marketing, R&D, IT). This segregates traffic, preventing unauthorized access to sensitive data and enhancing overall security. Imagine each department having its own secure “neighborhood” within the network city.
+* Departmental VLANs:
+- We will implement VLANs (Virtual LANs) to create isolated network segments for each department (Sales & Marketing, R&D, IT). This segregates traffic, preventing unauthorized access to sensitive data and enhancing overall security. Imagine each department having its own secure “neighborhood” within the network city.
 * Benefits:
   * Improved security posture through data isolation.
   * Reduced network congestion and faster data transfer.
@@ -18,14 +19,15 @@ Proposed Solution Phase 1:
   * Proactive threat detection and mitigation.
   * Protection against malware, ransomware, and other cyberattacks.
   * Enhanced device-level security for all connected endpoints.
-Secure VPN Access: We will establish a VPN server, enabling secure remote access for authorized employees. This ensures secure data transmissions from any location while maintaining network integrity. Imagine a secure tunnel employees can use to travel safely between the office and the network city.
-Benefits:
-Increased employee flexibility and work-life balance.
-Improved talent acquisition opportunities by attracting remote candidates.
-Secure remote access to company resources for authorized users.
-Proposed Solution Phase 2:
-2. Secure and Scalable AWS VPC:
-Web-Based Login and Virtualized desktops:
+* Secure VPN Access:
+- We will establish a VPN server, enabling secure remote access for authorized employees. This ensures secure data transmissions from any location while maintaining network integrity. Imagine a secure tunnel employees can use to travel safely between the office and the network city.
+ * Benefits:
+  * Increased employee flexibility and work-life balance.
+  * Improved talent acquisition opportunities by attracting remote candidates.
+  * Secure remote access to company resources for authorized users.
+# Proposed Solution Phase 2:
+## 2. Secure and Scalable AWS VPC:
+ * Web-Based Login and Virtualized desktops:
 We will implement a we-based login portal for employees, enabling secure access to their virtualized desktop environments from any device with an internet connection. This eliminates the need for traditional desktop computers and simplifies device management
 Imagine employees using a virtual “key” to unlock their secure workspace within a cloud city, accessible from anywhere
 Benefits:
