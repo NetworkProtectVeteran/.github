@@ -1,13 +1,13 @@
-Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
-Executive Summary:
+# Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
+## Executive Summary:
 This proposal outlines a comprehensive network upgrade solution for InnovateTech. We are awry of your your growing workforce, expanding security needs. This of course comes with  increasing demand for collaboration and remote access in a post Covid environment. We propose a two-pronged approach: enhancing your current existing physical infrastructure with robust security features with future plans to migrate key services to a secure and scalable AWS Virtual Private Cloud (VPC) environment. This hybrid approach optimizes network performance, strengthens data security, streamlines collaboration, and positions your company for future growth.
-Current Challenges:
+## Current Challenges:
 Data Security Concerns: The lack of departmental segregation exposes sensitive data to unauthorized access, increasing vulnerability to cyberattacks and potential data breaches.
 Collaboration Bottlenecks: Limited file sharing capabilities hinder workflow across departments, impacting productivity and employee satisfaction.
 Scalability Constraints: The current network infrastructure struggles to accommodate your expanding workforce and growing resource demands.
 Remote Access Gaps: The absence of secure remote access options restricts flexibility and limits talent acquisition opportunities.
 Proposed Solution Phase 1:
-1. Enhanced Physical Network:
+## 1. Enhanced Physical Network:
 Departmental VLANs: We will implement VLANs (Virtual LANs) to create isolated network segments for each department (Sales & Marketing, R&D, IT). This segregates traffic, preventing unauthorized access to sensitive data and enhancing overall security. Imagine each department having its own secure “neighborhood” within the network city.
 Benefits:
 Improved security posture through data isolation.
