@@ -66,7 +66,7 @@ Future Expansion Subnet: A dedicated subnet within the VPC will be reserved for 
 The project is estimated to be completed within 6 months at an approximate cost of $75,000. We propose a phased implementation, prioritizing critical upgrades and minimizing disruption to ongoing operations. We will provide detailed timelines and cost
 
 ## Links to Documentation
-- (Presentation)[https://docs.google.com/presentation/d/1zeVuBw7DUMpogYqQG7K4TPg0J31C12pnNRHpLEgffGI/edit?usp=sharing]
+- [Presentation](https://docs.google.com/presentation/d/1zeVuBw7DUMpogYqQG7K4TPg0J31C12pnNRHpLEgffGI/edit?usp=sharing)
 - (Org Chart)[]
 - (SOP's)[]
 ## Resources 
