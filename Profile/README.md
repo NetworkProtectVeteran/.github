@@ -67,8 +67,11 @@ The project is estimated to be completed within 6 months at an approximate cost 
 
 ## Links to Documentation
 - [Presentation](https://docs.google.com/presentation/d/1zeVuBw7DUMpogYqQG7K4TPg0J31C12pnNRHpLEgffGI/edit?usp=sharing)
-- (Org Chart)[]
-- (SOP's)[]
+- [Org Chart](https://github.com/NetworkProtectVeteran/Company-Chart/blob/main/Chart.png)
+- [SOP's & Documentation](https://github.com/NetworkProtectVeteran/NPV_Documents)
+- [Network Toplogy Phase 1](https://github.com/NetworkProtectVeteran/Network/wiki/Topology)
+- [Network Toplogy Phase 2](https://github.com/NetworkProtectVeteran/Network/wiki/Cloud)
+
 ## Resources 
 ChatGPT Bard Google etc. 
 
