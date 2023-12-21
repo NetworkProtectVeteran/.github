@@ -11,13 +11,13 @@ Proposed Solution Phase 1:
 * Departmental VLANs: We will implement VLANs (Virtual LANs) to create isolated network segments for each department (Sales & Marketing, R&D, IT). This segregates traffic, preventing unauthorized access to sensitive data and enhancing overall security. Imagine each department having its own secure “neighborhood” within the network city.
 * Benefits:
   * Improved security posture through data isolation.
-Reduced network congestion and faster data transfer.
-Simplified network management for each department.
-Advanced Security Features: We will upgrade core switches and access points with firewalls, intrusion detection/prevention systems (IDS/IPS), and endpoint security solutions. This creates a multi-layered defense perimeter against cyber threats. Imagine an additional wall and security guards around each departmental neighborhood.
-Benefits:
-Proactive threat detection and mitigation.
-Protection against malware, ransomware, and other cyberattacks.
-Enhanced device-level security for all connected endpoints.
+  * Reduced network congestion and faster data transfer.
+  * Simplified network management for each department.
+ * Advanced Security Features: We will upgrade core switches and access points with firewalls, intrusion detection/prevention systems (IDS/IPS), and endpoint security solutions. This creates a multi-layered defense perimeter against cyber threats. Imagine an additional wall and security guards around each departmental neighborhood.
+ * Benefits:
+  * Proactive threat detection and mitigation.
+  * Protection against malware, ransomware, and other cyberattacks.
+  * Enhanced device-level security for all connected endpoints.
 Secure VPN Access: We will establish a VPN server, enabling secure remote access for authorized employees. This ensures secure data transmissions from any location while maintaining network integrity. Imagine a secure tunnel employees can use to travel safely between the office and the network city.
 Benefits:
 Increased employee flexibility and work-life balance.
