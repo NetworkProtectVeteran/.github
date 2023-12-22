@@ -73,5 +73,5 @@ The project is estimated to be completed within 6 months at an approximate cost 
 - [Network Toplogy Phase 2](https://github.com/NetworkProtectVeteran/Network/wiki/Cloud)
 
 ## Resources 
-ChatGPT Bard Google etc. 
+ChatGPT, Bard, Google, Code Fellows Staff & TA's, etc. 
 
