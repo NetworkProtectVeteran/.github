@@ -1,4 +1,3 @@
-style="display: block; margin-left: auto; margin-right: auto;"
 
 <center>
   <img src="https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png">
