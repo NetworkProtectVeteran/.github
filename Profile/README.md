@@ -1,6 +1,8 @@
+![alt text]()
+
 # Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
 ## Executive Summary:
-This proposal outlines a comprehensive network upgrade solution for InnovateTech. We are awry of your your growing workforce, expanding security needs. This of course comes with  increasing demand for collaboration and remote access in a post Covid environment. We propose a two-pronged approach: enhancing your current existing physical infrastructure with robust security features with future plans to migrate key services to a secure and scalable AWS Virtual Private Cloud (VPC) environment. This hybrid approach optimizes network performance, strengthens data security, streamlines collaboration, and positions your company for future growth.
+This proposal outlines a comprehensive network upgrade solution for InnovateTech. We are aware of your growing workforce, expanding security needs. This of course comes with increasing demand for collaboration and remote access in a post Covid environment. We propose a two-pronged approach: enhancing your current existing physical infrastructure with robust security features with future plans to migrate key services to a secure and scalable AWS Virtual Private Cloud (VPC) environment. This hybrid approach optimizes network performance, strengthens data security, streamlines collaboration, and positions your company for future growth.
 ## Current Challenges:
 Data Security Concerns: The lack of departmental segregation exposes sensitive data to unauthorized access, increasing vulnerability to cyberattacks and potential data breaches.
 Collaboration Bottlenecks: Limited file sharing capabilities hinder workflow across departments, impacting productivity and employee satisfaction.
@@ -25,8 +27,8 @@ Secure VPN Access: We will establish a VPN server, enabling secure remote access
   * Increased employee flexibility and work-life balance.
   * Improved talent acquisition opportunities by attracting remote candidates.
   * Secure remote access to company resources for authorized users.
-#
-#
+
+
 # Proposed Solution Phase 2:
 ## 2. Secure and Scalable AWS VPC:
 Web-Based Login and Virtualized desktops: We will implement a web-based login portal for employees, enabling secure access to their virtualized desktop environments from any device with an internet connection. This eliminates the need for traditional desktop computers and simplifies device management
@@ -69,8 +71,8 @@ The project is estimated to be completed within 6 months at an approximate cost 
 - [Presentation](https://docs.google.com/presentation/d/1zeVuBw7DUMpogYqQG7K4TPg0J31C12pnNRHpLEgffGI/edit?usp=sharing)
 - [Org Chart](https://github.com/NetworkProtectVeteran/Company-Chart/blob/main/Chart.png)
 - [SOP's & Documentation](https://github.com/NetworkProtectVeteran/NPV_Documents)
-- [Network Toplogy Phase 1](https://github.com/NetworkProtectVeteran/Network/wiki/Topology)
-- [Network Toplogy Phase 2](https://github.com/NetworkProtectVeteran/Network/wiki/Cloud)
+- [Network Topology Phase 1](https://github.com/NetworkProtectVeteran/Network/wiki/Topology)
+- [Network Topology Phase 2](https://github.com/NetworkProtectVeteran/Network/wiki/Cloud)
 
 ## Resources 
 ChatGPT, Bard, Google, Code Fellows Staff & TA's, etc. 
