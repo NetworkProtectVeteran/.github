@@ -1,6 +1,4 @@
-align="center"
-
-![logo](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png)
+![logo](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png) align="center"
 
 # Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
 ## Executive Summary:
