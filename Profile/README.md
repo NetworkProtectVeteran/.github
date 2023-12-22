@@ -1,5 +1,4 @@
-
-<img src="https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png" class="centered">
 
 
 # Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
