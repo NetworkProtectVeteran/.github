@@ -1,4 +1,6 @@
-![logo](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png) align="center"
+<p align="center">
+  ![logo](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png)
+</p>
 # Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
 ## Executive Summary:
 This proposal outlines a comprehensive network upgrade solution for InnovateTech. We are aware of your growing workforce, expanding security needs. This of course comes with increasing demand for collaboration and remote access in a post Covid environment. We propose a two-pronged approach: enhancing your current existing physical infrastructure with robust security features with future plans to migrate key services to a secure and scalable AWS Virtual Private Cloud (VPC) environment. This hybrid approach optimizes network performance, strengthens data security, streamlines collaboration, and positions your company for future growth.
