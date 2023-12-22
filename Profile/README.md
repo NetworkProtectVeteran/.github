@@ -42,11 +42,7 @@ Imagine employees using a virtual “key” to unlock their secure workspace wit
   * Reduced hardware cost and maintenance overhead
   * Improved disaster recovery capabilites
 
-
-
-
-
-# Multi-Factor authentication (MFA): We will implement Multi-Factor authentication (MFA) Web-based login to strengthen security. This requires users to provide multiple credentials (e.g., password, security token, or biometric verification), Making unauthorized access even more difficult
+Multi-Factor authentication (MFA): We will implement Multi-Factor authentication (MFA) Web-based login to strengthen security. This requires users to provide multiple credentials (e.g., password, security token, or biometric verification), Making unauthorized access even more difficult
 Imagine requiring employees to present virtual “ID cards” along with their key to access the cloud city adding an extra layer of protection.
 * Benefits:
   * Protection against unauthorized access and credential theft. 
