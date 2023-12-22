@@ -1,4 +1,4 @@
-![alt text]([https://github.com/NetworkProtectVeteran/Network/blob/main/Cloud%20computing.PNG](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png))
+![alt text](https://github.com/NetworkProtectVeteran/Network/blob/main/unnamed.png)
 
 # Network Upgrade Proposal for InnovateTech: A Deep Dive by NPV
 ## Executive Summary:
